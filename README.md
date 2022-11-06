@@ -83,7 +83,7 @@ You Created. --> Save.
 	
 	# Give Unique Name And S3 Bucket which you created.
 	export NAME=mylandmarktech.k8s.local
-	export KOPS_STATE_STORE=s3://class28.local
+	export KOPS_STATE_STORE=s3://mylandmarktech29.local
  
     source .bashrc
 	
