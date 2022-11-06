@@ -86,6 +86,7 @@ You Created. --> Save.
 	export KOPS_STATE_STORE=s3://mylandmarktech29.local
  
     source .bashrc
+    echo $NAME 
 	
 # 7) Create sshkeys before creating cluster
 
